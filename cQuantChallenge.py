@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 # Improvements (couldn't get to these because I ran out of time):
 # 1. Refactor code to be more modular (use functions and loops)
 # 2. Create better visualization of data
+# 3. Generate additional tables and groupings of data
+# 4. Calculate additional statistics about the data (variance, standard deviation, etc)
 
 # Import datasets (Task 1)
 dfA = pd.read_csv("data/PriceData_A.csv")
